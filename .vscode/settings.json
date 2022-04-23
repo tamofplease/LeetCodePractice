@@ -1,0 +1,12 @@
+{
+    "leetcode.defaultLanguage": "cpp",
+    "leetcode.workspalceFolder": "~/WorkSpace/LeetCode",
+    "leetcode.filePath": {
+        "default": {
+            "folder": {
+                "folder": "",
+                "filename": "${id}.${kebab-case-name}.${ext}",
+            }
+        }
+    }
+}
